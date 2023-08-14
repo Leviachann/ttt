@@ -1,0 +1,16 @@
+C:\Users\User\Downloads\TicTacToeClientSide1225-master\TicTacToeClientSide1225\bin\Debug\TicTacToeClientSide1225.exe.config
+C:\Users\User\Downloads\TicTacToeClientSide1225-master\TicTacToeClientSide1225\bin\Debug\TicTacToeClientSide1225.exe
+C:\Users\User\Downloads\TicTacToeClientSide1225-master\TicTacToeClientSide1225\bin\Debug\TicTacToeClientSide1225.pdb
+C:\Users\User\Downloads\TicTacToeClientSide1225-master\TicTacToeClientSide1225\obj\Debug\TicTacToeClientSide1225.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\TicTacToeClientSide1225-master\TicTacToeClientSide1225\obj\Debug\TicTacToeClientSide1225.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\TicTacToeClientSide1225-master\TicTacToeClientSide1225\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\TicTacToeClientSide1225-master\TicTacToeClientSide1225\obj\Debug\App.g.cs
+C:\Users\User\Downloads\TicTacToeClientSide1225-master\TicTacToeClientSide1225\obj\Debug\TicTacToeClientSide1225_MarkupCompile.cache
+C:\Users\User\Downloads\TicTacToeClientSide1225-master\TicTacToeClientSide1225\obj\Debug\TicTacToeClientSide1225_MarkupCompile.lref
+C:\Users\User\Downloads\TicTacToeClientSide1225-master\TicTacToeClientSide1225\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\TicTacToeClientSide1225-master\TicTacToeClientSide1225\obj\Debug\TicTacToeClientSide1225.g.resources
+C:\Users\User\Downloads\TicTacToeClientSide1225-master\TicTacToeClientSide1225\obj\Debug\TicTacToeClientSide1225.Properties.Resources.resources
+C:\Users\User\Downloads\TicTacToeClientSide1225-master\TicTacToeClientSide1225\obj\Debug\TicTacToeClientSide1225.csproj.GenerateResource.cache
+C:\Users\User\Downloads\TicTacToeClientSide1225-master\TicTacToeClientSide1225\obj\Debug\TicTacToeClientSide1225.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TicTacToeClientSide1225-master\TicTacToeClientSide1225\obj\Debug\TicTacToeClientSide1225.exe
+C:\Users\User\Downloads\TicTacToeClientSide1225-master\TicTacToeClientSide1225\obj\Debug\TicTacToeClientSide1225.pdb
